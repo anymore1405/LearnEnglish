@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Học tiếng Anh</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="chat_giong">Chất giọng</string>
+    <string name="toc_do_doc">Tốc độ đọc</string>
+    <string name="phat_am">Phát âm</string>
+    <string name="Nhap_tu_phat_am_thu">Nhập từ cần phát âm thử</string>
+    <string name="Loi_Phat_Am">Xảy ra lỗi khi phát âm</string>
+    <string name="thiep_lap">Thiết lập</string>
+    <string name="su_dung_phan_phat_am_mac_dinh">Hiệu chỉnh phần phát âm mặc định</string>
+    <string name="ti_le_dung">Tỉ lệ đúng: </string>
+    <string name="phan_tram">%</string>
+    <string name="so_cau">Số câu:</string>
+    <string name="Dich_Nghia">Dịch nghĩa</string>
+    <string name="Dich_Nguoc">Tìm nghĩa</string>
+    <string name="Bam_De_Nghe">Bấm để nghe</string>
+    <string name="Noi_Cau_Sau">Nói câu sau</string>
+    <string name="Phat_Am_Dung">Phát âm đúng</string>
+    <string name="Phat_Am_Thua_Tu">Phát âm thừa từ</string>
+    <string name="Cac_Loi_Sai">Lỗi sai</string>
+    <string name="Phat_Am_Thieu_Tu">Phát âm thiếu từ</string>
+    <string name="Noi_Vao_Mic">Nói vào MIC</string>
+    <string name="Loi">Lỗi</string>
+    <string name="Tieng_Anh">Tiếng Anh: </string>
+    <string name="Tieng_Viet">Tiếng Việt: </string>
+    <string name="fileSQLite">New.sqlite</string>
+    <string name="cautruc">Cấu trúc: </string>
+    <string name="Hoan_Thanh">Bạn đã hoàn thành bài kiểm tra với số điểm</string>
+    <string name="Khong_Co_Ket_Noi_Mang">Không có kết nối mạng!</string>
+    <string name="dich_nghia_bo_tro">Bảng dịch nghĩa bổ trợ</string>
+    <string name="Chu_De">Chủ đề</string>
+    <string name="gop_y">Góp ý</string>
+</resources>

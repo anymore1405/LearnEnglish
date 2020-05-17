@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_menu_NhanDienGiongNoi"
+        android:title="Luyện phát âm"/>
+    <item android:id="@+id/item_menu_KTBX"
+        android:title="Kiến thức bổ xung"/>
+    <item
+        android:id="@+id/item_menu_vocabulary"
+        android:title="Từ vựng" />
+    <item
+        android:id="@+id/item_menu_thietlap"
+        android:title="Thiết lập" />
+    <item
+        android:id="@+id/item_menu_gopY"
+        android:title="Góp ý" />
+    <item
+        android:id="@+id/item_menu_Thoat"
+        android:title="Thoát" />
+</menu>

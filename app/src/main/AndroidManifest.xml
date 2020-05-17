@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tai.nk.learnenglish">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashScreen"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity_ChuDeChinh"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity android:name=".Activity_ChonNhanh" />
+        <activity android:name=".Activity_ListItem" />
+        <activity android:name=".Cai_Dat" />
+        <activity android:name=".Bai_Test" />
+        <activity android:name=".ThietLap_BaiTest" />
+        <activity android:name=".Activity_Final_Target" />
+        <activity android:name=".Activity_TuVung" />
+        <activity android:name=".Activity_DanhGia" />
+        <activity android:name=".Activity_GopY" />
+        <activity android:name=".NhanDienGiongNoi" />
+        <activity android:name=".KienThucBoXung" />
+    </application>
+
+</manifest>

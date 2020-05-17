@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "512291295126",
+    "firebase_url": "https://learnenglish-d564b.firebaseio.com",
+    "project_id": "learnenglish-d564b",
+    "storage_bucket": "learnenglish-d564b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512291295126:android:971466dfd0fb3b3e",
+        "android_client_info": {
+          "package_name": "tai.nk.learnenglish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512291295126-ik56ar74egnejn2ackbafg0rlfdoufsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfWEHUhKOPwYpFhK3SbEiG_mdH29co4n8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
